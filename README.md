@@ -6,23 +6,17 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=4%2B+years+building+Flutter+apps;Design+it.+Build+it.+Ship+it.;From+wireframe+to+App+Store+%E2%80%94+solo.;10%2C000%2B+downloads+across+live+apps." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=4%2B+years+building+Flutter+apps;Design+it.+Build+it.+Ship+it.;From+wireframe+to+App+Store+%E2%80%94+solo.;4+live+apps.+11%2C000%2B+downloads.+Real+users.;821+contributions+last+year.+Still+building." alt="Typing SVG" />
 
 </div>
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=F4fazil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="42%"/>
 
 **Mobile developer based in Lahore.**
 
 Four years building Flutter apps that ship — not prototypes, not demos. Live products on the App Store and Play Store with real users and real download numbers.
 
 I handle both sides: the UI decisions most developers leave open, and the backend work that holds everything together. Firebase, Node.js, REST APIs — full stack, one person, no handoff.
-
-<br clear="right"/>
 
 ---
 
