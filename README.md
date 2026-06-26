@@ -1,16 +1,35 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:54C5F8&height=200&section=header&text=Fazil%20Qazi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20%7C%20Lahore&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
+<!-- ============================================================= -->
+<!--                          HEADER                               -->
+<!-- ============================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=4%2B+years+building+Flutter+apps;Design+it.+Build+it.+Ship+it.;From+wireframe+to+App+Store+%E2%80%94+solo.;4+live+apps.+11%2C000%2B+downloads.+Real+users.;821+contributions+last+year.+Still+building." alt="Typing SVG" />
+<!-- Animated gradient banner -->
+<a href="https://f4fazil.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,40:1E88E5,100:54C5F8&height=240&section=header&text=Fazil%20Qazi&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Flutter%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Lahore%2C%20PK&descAlignY=54&descSize=20&animation=fadeIn" width="100%" alt="Fazil Qazi"/>
+</a>
+
+<!-- Role / focus badges -->
+![Flutter Developer](https://img.shields.io/badge/Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-1E88E5?style=for-the-badge&logo=node.js&logoColor=white)
+![Lahore](https://img.shields.io/badge/Lahore,%20PK-54C5F8?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea043?style=for-the-badge&logo=statuspage&logoColor=white)
+
+<br/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=1E88E5&center=true&vCenter=true&width=700&height=55&lines=4%2B+years+building+Flutter+apps;Design+it.+Build+it.+Ship+it.;From+wireframe+to+App+Store+%E2%80%94+solo.;4+live+apps.+11%2C000%2B+downloads.+Real+users.;821+contributions+last+year.+Still+building." alt="Typing SVG" />
+
+<br/>
+
+<!-- Live stats strip -->
+<img src="https://komarev.com/ghpvc/?username=F4fazil&label=Profile%20Views&color=02569B&style=for-the-badge" alt="views"/>
+<a href="https://github.com/F4fazil?tab=followers"><img src="https://img.shields.io/github/followers/F4fazil?label=Followers&style=for-the-badge&color=1E88E5&logo=github&logoColor=white" alt="followers"/></a>
+<a href="https://f4fazil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-54C5F8?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
 
 </div>
 
----
+<!-- ============================================================= -->
 
 **Mobile developer based in Lahore.**
 
