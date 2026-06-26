@@ -40,19 +40,12 @@ Every app above was designed and built by me. No external designer. No handoff.
 
 ---
 
-
-What Clients Hire Me For
-
-This section is GOLD.
-
 📱 MVP Development
-
 Launch your startup idea quickly.
 
 ━━━━━━━━━━━━━━━━━━━━
 
 ⚡ Performance Optimization
-
 Fast apps.
 Optimized Firestore reads.
 Lower cloud costs.
@@ -60,7 +53,6 @@ Lower cloud costs.
 ━━━━━━━━━━━━━━━━━━━━
 
 🏗 Architecture
-
 Apps built for
 10 users...
 or 100,000 users.
@@ -68,7 +60,6 @@ or 100,000 users.
 ━━━━━━━━━━━━━━━━━━━━
 
 🎨 UI/UX
-
 Simple.
 Modern.
 Easy to use.
@@ -76,7 +67,6 @@ Easy to use.
 ━━━━━━━━━━━━━━━━━━━━
 
 🚀 App Publishing
-
 Google Play
 Apple App Store
 TestFlight
