@@ -14,9 +14,16 @@
 
 **Mobile developer based in Lahore.**
 
-Four years building Flutter apps that ship — not prototypes, not demos. Live products on the App Store and Play Store with real users and real download numbers.
+I help startups and founders turn ideas into production-ready mobile apps.
 
-I handle both sides: the UI decisions most developers leave open, and the backend work that holds everything together. Firebase, Node.js, REST APIs — full stack, one person, no handoff.
+From product planning and UI design to backend architecture, AI integrations, payments, testing, and App Store deployment, I manage the complete development lifecycle.
+
+My focus is simple:
+
+• Build apps that launch fast
+• Scale without expensive rewrites
+• Keep Firebase costs low
+• Deliver polished user experiences
 
 ---
 
@@ -32,6 +39,48 @@ I handle both sides: the UI decisions most developers leave open, and the backen
 Every app above was designed and built by me. No external designer. No handoff.
 
 ---
+
+
+What Clients Hire Me For
+
+This section is GOLD.
+
+📱 MVP Development
+
+Launch your startup idea quickly.
+
+━━━━━━━━━━━━━━━━━━━━
+
+⚡ Performance Optimization
+
+Fast apps.
+Optimized Firestore reads.
+Lower cloud costs.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🏗 Architecture
+
+Apps built for
+10 users...
+or 100,000 users.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎨 UI/UX
+
+Simple.
+Modern.
+Easy to use.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 App Publishing
+
+Google Play
+Apple App Store
+TestFlight
+Store Optimization
 
 ## Stack
 
