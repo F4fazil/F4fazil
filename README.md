@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<!-- Animated gradient banner -->
+<!-- Animated floating banner (custom SVG — file lives at assets/header.svg in this repo) -->
 <a href="https://f4fazil.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,40:1E88E5,100:54C5F8&height=240&section=header&text=Fazil%20Qazi&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Flutter%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Lahore%2C%20PK&descAlignY=54&descSize=20&animation=fadeIn" width="100%" alt="Fazil Qazi"/>
+  <img src="./assets/header.svg" width="100%" alt="Fazil Qazi"/>
 </a>
 
 <!-- Role / focus badges -->
