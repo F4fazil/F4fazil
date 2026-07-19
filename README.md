@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:02569B,100:54C5F8&height=230&section=header&text=Fazil%20Qazi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Flutter%20Engineer%20%C2%B7%20Full-Stack%20Mobile&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Fazil Qazi"/>
 
-<a href="https://f4fazil.vercel.app"><img src="https://img.shields.io/badge/FLUTTER%20DEVELOPER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Developer"/></a>
+<a href="https://fazilbuilds.vercel.app/"><img src="https://img.shields.io/badge/FLUTTER%20DEVELOPER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Developer"/></a>
 <img src="https://img.shields.io/badge/FULL--STACK%20MOBILE-1E88E5?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full Stack"/>
 <img src="https://img.shields.io/badge/LAHORE,%20PK-54C5F8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore"/>
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ea043?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work"/>
@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<a href="https://f4fazil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://fazilbuilds.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:qazifazil4@gmail.com"><img src="https://img.shields.io/badge/Email-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/fazilqazi-flutter"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.upwork.com"><img src="https://img.shields.io/badge/Upwork-Available-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
@@ -270,7 +270,7 @@ Lightweight, high-fidelity audio player focused on playback quality and a clean 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=F4fazil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=54C5F8&icon_color=1E88E5&text_color=C9D1D9&ring_color=1E88E5" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F4fazil&theme=tokyonight&hide_border=true&background=0D1117&ring=1E88E5&fire=54C5F8&currStreakLabel=54C5F8" height="165" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=F4fazil&theme=tokyonight&hide_border=true&background=0D1117&ring=1E88E5&fire=54C5F8&currStreakLabel=54C5F8" height="165" alt="GitHub Streak"/>
 
 <br/>
 
@@ -416,7 +416,7 @@ I read the brief, map the UX, build the screens, wire the backend, and ship. Whe
 
 **Open to freelance projects, contract work, and full-time opportunities.**
 
-<a href="https://f4fazil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f4fazil.vercel.app-02569B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://fazilbuilds.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fazilbuilds.vercel.app-02569B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:qazifazil4@gmail.com"><img src="https://img.shields.io/badge/Email-qazifazil4@gmail.com-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <br/>
 <a href="https://www.linkedin.com/in/fazilqazi-flutter"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
