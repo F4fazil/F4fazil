@@ -51,4 +51,3 @@ I read the brief, map the UX, build the screens, wire the backend, and ship. Whe
 
 Freelance projects, contract work, and full-time roles — Flutter development, backend and API work, Firebase architecture, performance optimization, store deployment, and stabilizing inherited codebases.
 
-<img src="https://github-readme-stats.vercel.app/api?username=F4fazil&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="GitHub stats"/>
