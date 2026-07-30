@@ -6,8 +6,7 @@ I build and ship production mobile apps end-to-end — scoping, UI, Flutter deve
 
 No handoffs between design and engineering. I make the calls, ship the build, and iterate on real user feedback.
 
-**[Portfolio](https://fazilbuilds.vercel.app/)** · **[Email](mailto:qazifazil4@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/fazilqazi-flutter)**[StackOverFlow(mailto:https://stackoverflow.com/users/21025548/fazil)**
-
+🌐 **[Portfolio](https://fazilbuilds.vercel.app/)** · 📧 **[Email](mailto:qazifazil4@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/fazilqazi-flutter)** · 💻 **[Stack Overflow](https://stackoverflow.com/users/21025548/fazil)**
 ---
 
 ## Shipped Apps
