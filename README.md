@@ -32,6 +32,7 @@ I'm passionate about writing maintainable code, solving complex technical proble
 | **[Our Time Together](https://apps.apple.com/us/app/our-time-together/id1633279048)** | Relationship milestone and countdown app | Flutter, Firebase | App Store + [Google Play](https://play.google.com/store/apps/details?id=com.MJA.ott) |
 | **[Success360](https://apps.apple.com/pk/app/success360/id6754213328)** | Goal and productivity tracking, distraction-free daily workflow | Flutter, Firebase | App Store |
 | **[CarVault Pro](https://apps.apple.com/pk/app/carvault-pro-maintenance-log/id6778756572)** | Vehicle maintenance and service history log | Flutter, SQL | App Store |
+| **[Home Care Companion](https://apps.apple.com/app/id6790582525)** | Home care platform for caregiver scheduling, visit tracking, care documentation, and family communication | Flutter, Firebase | App Store |
 | **[FunStream Live](https://play.google.com/store/apps/details?id=com.markk.hifunn)** | Live streaming with real-time media delivery | Flutter, Firebase | Google Play |
 | **[Pure HD Audio](https://play.google.com/store/apps/details?id=com.silentsystem.pureaudiohd)** | High-fidelity audio player | Flutter | 1,000+ downloads · Google Play |
 
