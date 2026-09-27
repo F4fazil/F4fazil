@@ -6,7 +6,7 @@ About Me
 
 I'm a Flutter Mobile App Developer with 4+ years of experience building high-quality Android and iOS applications. I enjoy turning ideas into scalable, production-ready mobile apps with a strong focus on clean architecture, performance, and user experience.
 
-I've built and shipped 15+ Flutter applications across fintech, healthcare, marketplace, social, and productivity domains. My experience covers the complete development lifecycle—from UI implementation and backend integration to publishing apps on the App Store and Google Play.
+I've built and shipped 25+ Flutter applications across fintech, healthcare, marketplace, social, and productivity domains. My experience covers the complete development lifecycle—from UI implementation and backend integration to publishing apps on the App Store and Google Play.
 
 Tech Stack
 Mobile: Flutter, Dart
